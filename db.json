@@ -1,0 +1,58 @@
+{
+  "content": {
+    "title": "lorem"
+  },
+  "programming" :[
+    {
+      "title" : "Java With Springboot",
+      "path" : "springboot",
+      "image": "https://www.baeldung.com/wp-content/uploads/2017/06/homepage-http_client.jpg"
+    },
+    {
+      "title" : "Springboot With JSON WEB TOKEN",
+      "path" : "springboot-jwt",
+      "image" : "https://www.baeldung.com/wp-content/uploads/2017/06/homepage-http_client.jpg"
+    },
+    {
+      "title" : "Java Basic",
+      "path": "java-basic"
+    } 
+  ],
+  "category": [
+    {
+      "id" : "1",
+      "title": "Dapatkan info seputar game disini!",
+      "image": "https://www.baeldung.com/wp-content/uploads/2017/06/homepage-http_client.jpg",
+      "link" :"abc",
+      "path" :"game"
+    },
+    {
+      "id" : "2",
+      "title": "Belajar pemrograman yuk!",
+      "image": "https://www.baeldung.com/wp-content/uploads/2017/10/icon-javaseries-home.png",
+      "link" :"abc",
+      "path" :"pemrograman"
+    },
+    {
+      "id" : "3",
+      "title": "Info teknologi terbaru, ada disini loh..",
+      "image": "https://www.baeldung.com/wp-content/uploads/2017/06/homepage-jackson_series.jpg",
+      "link" :"abc",
+      "path" :"teknologi"
+    },
+      {
+        "id" : "4",
+        "title": "Latest Articles",
+        "image": "https://www.baeldung.com/wp-content/uploads/2017/06/homepage-weekly_reviews.jpg",
+        "link" :"abc",
+        "path" :"latest"
+      },
+      {
+        "id" : "5",
+        "title": "Most Popular Articles",
+        "image": "https://www.baeldung.com/wp-content/uploads/2017/06/homepage-latest_articles.jpg",
+        "link" :"abc",
+        "path" :"most-popular"
+      }
+    ]
+}
